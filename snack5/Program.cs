@@ -1,4 +1,5 @@
 ﻿// SNACK 5
+// Il software chiede all’utente di inserire un numero. Se il numero inserito è pari, stampa il numero, se è dispari, stampa il numero successivo.
 Console.WriteLine("Inserisci un numero:");
 int numero = int.Parse(Console.ReadLine());
 

@@ -1,5 +1,5 @@
 ﻿// SNACK 4
-
+// Calcola la somma e la media dei numeri da 2 a 10.
 int[] numeri = { 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 int somma = 0;
 

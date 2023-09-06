@@ -1,4 +1,5 @@
 ﻿// SNACK 1
+// L’utente inserisce due numeri in successione. Il software stampa il maggiore.
 Console.WriteLine("Inserisci il primo numero:");
 int numero1 = int.Parse(Console.ReadLine());
 Console.WriteLine("Inserisci il secondo numero:");

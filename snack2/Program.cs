@@ -1,4 +1,5 @@
 ﻿// SNACK 2
+// L’utente inserisce due parole in successione. Il software stampa prima la parola più corta, poi la parola più lunga.
 Console.WriteLine("Inserisci la prima parola:");
 string parola1 = Console.ReadLine();
 Console.WriteLine("Inserisci la seconda parola:");
