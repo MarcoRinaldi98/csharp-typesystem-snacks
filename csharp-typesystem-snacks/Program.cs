@@ -13,5 +13,5 @@ else if (numero1 < numero2)
     Console.WriteLine($"Il numero piu grande inserito è {numero2}");
 } else
 {
-    Console.WriteLine("I due numeri soino uguali!");
+    Console.WriteLine("I due numeri sono uguali!");
 }
